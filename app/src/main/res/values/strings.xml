@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LetsChat</string>
+    <string name="welcome_to_main_activity">Welcome to main Activity</string>
+    <string name="hello">Hello</string>
+    <string name="start_page_activity">Start Page Activity</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="this_is_login_activity">This is Login Activity</string>
+    <string name="create_an_account">Create an Account?</string>
+    <string name="letschat">LetsChat</string>
+    <string name="this_is_register_activity">This is Register Activity</string>
+    <string name="create_account">Create Account</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="friends_fragment">Friends Fragment</string>
+    <string name="requests_fragment">Requests Fragment</string>
+    <string name="chats_fragment">Chats Fragment</string>
+</resources>

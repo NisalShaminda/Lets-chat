@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "675107030552",
+    "firebase_url": "https://letschat-d500e.firebaseio.com",
+    "project_id": "letschat-d500e",
+    "storage_bucket": "letschat-d500e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675107030552:android:a0089b854e6be4ea",
+        "android_client_info": {
+          "package_name": "com.example.subhashana.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675107030552-sp7u3hnevtkcf29mknf4270ph1nfooje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhashana.letschat",
+            "certificate_hash": "9c8ca44b70e00b655e3d9fa66413c149da664d72"
+          }
+        },
+        {
+          "client_id": "675107030552-p16ld622l1012bvdg7g5l66abgtbf9a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhashana.letschat",
+            "certificate_hash": "a6aa92c97a38135ad85a326c14dc60055f8a4009"
+          }
+        },
+        {
+          "client_id": "675107030552-fa0rdelfc8p8n8slpvt1ua7dk1glr9s1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhashana.letschat",
+            "certificate_hash": "d071294f66813c488f9b37179bcf10d62f0f08b6"
+          }
+        },
+        {
+          "client_id": "675107030552-6q6b8m46lnijoekbumfvrnvp37anhs7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhashana.letschat",
+            "certificate_hash": "0630ec9257f5c5cd129451939cebf52cb52f436c"
+          }
+        },
+        {
+          "client_id": "675107030552-ek6q4c74g3rv592rn5cvg0j68t1o09h7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.subhashana.letschat",
+            "certificate_hash": "c6a6aecfc9c4f7fd03326705124ad600efd2bec6"
+          }
+        },
+        {
+          "client_id": "675107030552-hng32nkounb9blf4b37r6444dtcq7b2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthwRKfSkstNbfKA32FJzpjWqIa93Amgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675107030552-hng32nkounb9blf4b37r6444dtcq7b2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
